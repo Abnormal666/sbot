@@ -3,16 +3,16 @@ Darmowy bot na Twój serwer TeamSpeak.
 Free bot for your TeamSpeak server.
 
 ### LISTA FUNKCJI / FUNCTIONS LIST
-•» ADD_DESCRIPTION - Funkcja służaca do uzupełnienia opisy gdy ten jest pusty
-•» ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup
-•» ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów
-•» HELP_CHANNELS - Funkcja służaca do otwierania/zamykania centrum pomocy gdy jest to potrzebne
-•» ADMINS_TOPS - Funkcja służąca do zapisywania statystyk administracji na kanałach
-•» AWAY_CLIENTS_LIST - Funkcja służaca do wpisywania w opis kanału listy użytkowników away, a w nazwę ich ilość
-•» BAN_LIST - Funkcja wpisująca w opis wszystkie bany z serwera
-•» SERVER_HOSTNAME - Funkcja wpisująca w nazwę serwera ilość osób online
-•» SERVER_HOSTMESSAGE - Funkcja wpisująca w hosta wiadomość
-•» CLIENT_CHANNEL_STATUS - Funkcja wpisująca w nazwę kanału status administratora
+>•» ADD_DESCRIPTION - Funkcja służaca do uzupełnienia opisy gdy ten jest pusty
+>•» ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup
+>•» ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów
+>•» HELP_CHANNELS - Funkcja służaca do otwierania/zamykania centrum pomocy gdy jest to potrzebne
+>•» ADMINS_TOPS - Funkcja służąca do zapisywania statystyk administracji na kanałach
+>•» AWAY_CLIENTS_LIST - Funkcja służaca do wpisywania w opis kanału listy użytkowników away, a w nazwę ich ilość
+>•» BAN_LIST - Funkcja wpisująca w opis wszystkie bany z serwera
+>•» SERVER_HOSTNAME - Funkcja wpisująca w nazwę serwera ilość osób online
+>•» SERVER_HOSTMESSAGE - Funkcja wpisująca w hosta wiadomość
+>•» CLIENT_CHANNEL_STATUS - Funkcja wpisująca w nazwę kanału status administratora
 •» CLIENTS_TOPS - Funkcja służaca do wpisywania rankingów w opisy kanałów
 •» COPYRIGHT_DOWN - Funkcja służaca do przenoszenia kanału z copyrightem na sam doł serwera TS3
 •» COUNT_OF_DATABASE_CLIENTS - Funkcja służąca do wpisywania w nazwę kanału ilości klientów w bazie danych
