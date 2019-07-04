@@ -2,6 +2,39 @@
 Darmowy bot na Twój serwer TeamSpeak.
 Free bot for your TeamSpeak server.
 
+### INSTALACJA / INSTALLATION
+```apt update```
+
+```apt upgrade -y```
+
+```apt install apache2 git wget nano```
+
+```apt install php php-common php-gd php-curl php-mysql```
+
+```apt install mysql-server```
+
+```apt install phpmyadmin```
+
+```ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin```
+
+### KONFIGURACJA / CONFIGURATIONS
+Wejdź i skonfiguruj pliki:
+ >-files/connection_config.php
+ >-files/config.php
+
+### SPRAWDZANIE CZY NIE MA BŁĘDÓW W KONFIGURACJI
+```php core.php -i 1```
+
+```php core.php -i 2```
+
+```php core.php -i 3```
+
+```php core.php -i 4```
+
+```php core.php -i 5```
+
+```php core.php -i 6```
+
 ### LISTA FUNKCJI / FUNCTIONS LIST
 >>- ADD_DESCRIPTION - Funkcja służaca do uzupełnienia opisy gdy ten jest pusty
 >- ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup
