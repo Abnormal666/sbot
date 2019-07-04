@@ -1,7 +1,7 @@
 # SBOT
 Darmowy bot na Twój serwer TeamSpeak.
 Free bot for your TeamSpeak server.
-** Nie jest 1:1 wersja 6.0. Kilka funkcji i komend zostało usunięte.**
+* Nie jest 1:1 wersja 6.0. Kilka funkcji, komend i udogodnień zostało usunięte.*
 
 ### INSTALACJA / INSTALLATION
 ```apt update```
