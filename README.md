@@ -19,8 +19,8 @@ Free bot for your TeamSpeak server.
 
 ### KONFIGURACJA / CONFIGURATIONS
 Wejdź i skonfiguruj pliki:
- >-files/connection_config.php
- >-files/config.php
+ -files/connection_config.php
+ -files/config.php
 
 ### SPRAWDZANIE CZY NIE MA BŁĘDÓW W KONFIGURACJI
 ```php core.php -i 1```
