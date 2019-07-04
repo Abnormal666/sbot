@@ -19,8 +19,8 @@ Free bot for your TeamSpeak server.
 
 ### KONFIGURACJA / CONFIGURATIONS
 Wejdź i skonfiguruj pliki:
- -files/connection_config.php
- -files/config.php
+ - files/connection_config.php
+ - files/config.php
 
 ### SPRAWDZANIE CZY NIE MA BŁĘDÓW W KONFIGURACJI
 ```php core.php -i 1```
@@ -36,7 +36,7 @@ Wejdź i skonfiguruj pliki:
 ```php core.php -i 6```
 
 ### LISTA FUNKCJI / FUNCTIONS LIST
->>- ADD_DESCRIPTION - Funkcja służaca do uzupełnienia opisy gdy ten jest pusty
+>- ADD_DESCRIPTION - Funkcja służaca do uzupełnienia opisy gdy ten jest pusty
 >- ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup
 >- ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów
 >- HELP_CHANNELS - Funkcja służaca do otwierania/zamykania centrum pomocy gdy jest to potrzebne
