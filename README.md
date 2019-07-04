@@ -137,3 +137,10 @@ użytkowników do bazy dancyh, a następnie wypisywanie ich do opisu kanału
 >- KOMENDA: ELITE_CHANNELS - Komenda pozwala na wyświetlenie listy wszystkich kanałów elite i ich usunięcie.
 >- KOMENDA: TELEPORTS - Komenda pozwala na wyświetlenie listy wszystkich kanałów z telportacji i ich usunięcie.
 
+
+
+WWW: https://sbot.pl/
+FACEBOOK: https://fb.com/sbotteamspeak/
+FORUM: https://www.s-forum.pl/forum/95-sbot-aplikacja-na-serwery-ts3/
+SKRÓĆ LINK ZA DARMO (BEZ REKLAM): https://l.sbot.pl/
+
